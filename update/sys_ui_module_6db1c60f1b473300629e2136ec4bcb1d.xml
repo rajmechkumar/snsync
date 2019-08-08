@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="github tale">65b1c60f1b473300629e2136ec4bcb1b</application>
+        <filter/>
+        <name>github tales</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_44381_github_vid.github_tale_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-08 11:04:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6db1c60f1b473300629e2136ec4bcb1d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>github tales</sys_name>
+        <sys_package display_value="github Video" source="x_44381_github_vid">e081cacb1b473300629e2136ec4bcbd8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="github Video">e081cacb1b473300629e2136ec4bcbd8</sys_scope>
+        <sys_update_name>sys_ui_module_6db1c60f1b473300629e2136ec4bcb1d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-08 11:04:10</sys_updated_on>
+        <table>x_44381_github_vid_github_tale</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

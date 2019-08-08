@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="github_column" label="Github column" language="en" table="x_44381_github_vid_github_tale">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>github_column</element>
+            <help/>
+            <hint/>
+            <label>Github column</label>
+            <language>en</language>
+            <name>x_44381_github_vid_github_tale</name>
+            <plural>Github columns</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-08 11:04:10</sys_created_on>
+            <sys_id>a9b1c60f1b473300629e2136ec4bcb4d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Github column</sys_name>
+            <sys_package display_value="github Video" source="x_44381_github_vid">e081cacb1b473300629e2136ec4bcbd8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="github Video">e081cacb1b473300629e2136ec4bcbd8</sys_scope>
+            <sys_update_name>sys_documentation_x_44381_github_vid_github_tale_github_column_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-08 11:04:10</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

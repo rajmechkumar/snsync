@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="github tale" max_length="40" name="x_44381_github_vid_github_tale" type="collection">
+        <element display="true" label="Github column" max_length="40" name="github_column" type="string"/>
+    </element>
+</database>
